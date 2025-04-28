@@ -1,0 +1,13 @@
+command_id: 7E1.220304
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E90462030433'
+  expected_values:
+    SQ5_DRIVE_TIME_SPORT: 20.4
+- response: '7E90462030434'
+  expected_values:
+    SQ5_DRIVE_TIME_SPORT: 20.8
+- response: '7E90462030435'
+  expected_values:
+    SQ5_DRIVE_TIME_SPORT: 21.2

@@ -1,0 +1,571 @@
+command_id: 7E1.220302
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E905620302239F
+  expected_values:
+    SQ5_DRIVE_TIME: 2279.75
+- response: 7E90562030223A0
+  expected_values:
+    SQ5_DRIVE_TIME: 2280
+- response: 7E90562030223A1
+  expected_values:
+    SQ5_DRIVE_TIME: 2280.25
+- response: 7E90562030223A2
+  expected_values:
+    SQ5_DRIVE_TIME: 2280.5
+- response: 7E90562030223A3
+  expected_values:
+    SQ5_DRIVE_TIME: 2280.75
+- response: 7E90562030223A5
+  expected_values:
+    SQ5_DRIVE_TIME: 2281.25
+- response: 7E90562030223A6
+  expected_values:
+    SQ5_DRIVE_TIME: 2281.5
+- response: 7E90562030223A7
+  expected_values:
+    SQ5_DRIVE_TIME: 2281.75
+- response: 7E90562030223A8
+  expected_values:
+    SQ5_DRIVE_TIME: 2282
+- response: 7E90562030223A9
+  expected_values:
+    SQ5_DRIVE_TIME: 2282.25
+- response: 7E90562030223AA
+  expected_values:
+    SQ5_DRIVE_TIME: 2282.5
+- response: 7E90562030223AB
+  expected_values:
+    SQ5_DRIVE_TIME: 2282.75
+- response: 7E90562030223B4
+  expected_values:
+    SQ5_DRIVE_TIME: 2285
+- response: 7E90562030223B5
+  expected_values:
+    SQ5_DRIVE_TIME: 2285.25
+- response: 7E90562030223B6
+  expected_values:
+    SQ5_DRIVE_TIME: 2285.5
+- response: 7E90562030223B7
+  expected_values:
+    SQ5_DRIVE_TIME: 2285.75
+- response: 7E90562030223B8
+  expected_values:
+    SQ5_DRIVE_TIME: 2286
+- response: 7E90562030223BA
+  expected_values:
+    SQ5_DRIVE_TIME: 2286.5
+- response: 7E90562030223BB
+  expected_values:
+    SQ5_DRIVE_TIME: 2286.75
+- response: 7E90562030223BD
+  expected_values:
+    SQ5_DRIVE_TIME: 2287.25
+- response: 7E90562030223BE
+  expected_values:
+    SQ5_DRIVE_TIME: 2287.5
+- response: 7E90562030223BF
+  expected_values:
+    SQ5_DRIVE_TIME: 2287.75
+- response: 7E90562030223C0
+  expected_values:
+    SQ5_DRIVE_TIME: 2288
+- response: 7E90562030223C1
+  expected_values:
+    SQ5_DRIVE_TIME: 2288.25
+- response: 7E90562030223C2
+  expected_values:
+    SQ5_DRIVE_TIME: 2288.5
+- response: 7E90562030223C3
+  expected_values:
+    SQ5_DRIVE_TIME: 2288.75
+- response: 7E90562030223C4
+  expected_values:
+    SQ5_DRIVE_TIME: 2289
+- response: 7E90562030223C5
+  expected_values:
+    SQ5_DRIVE_TIME: 2289.25
+- response: 7E90562030223C6
+  expected_values:
+    SQ5_DRIVE_TIME: 2289.5
+- response: 7E90562030223C7
+  expected_values:
+    SQ5_DRIVE_TIME: 2289.75
+- response: 7E90562030223C8
+  expected_values:
+    SQ5_DRIVE_TIME: 2290
+- response: 7E90562030223C9
+  expected_values:
+    SQ5_DRIVE_TIME: 2290.25
+- response: 7E90562030223CA
+  expected_values:
+    SQ5_DRIVE_TIME: 2290.5
+- response: 7E90562030223CB
+  expected_values:
+    SQ5_DRIVE_TIME: 2290.75
+- response: 7E90562030223CC
+  expected_values:
+    SQ5_DRIVE_TIME: 2291
+- response: 7E90562030223CD
+  expected_values:
+    SQ5_DRIVE_TIME: 2291.25
+- response: 7E90562030223CE
+  expected_values:
+    SQ5_DRIVE_TIME: 2291.5
+- response: 7E90562030223CF
+  expected_values:
+    SQ5_DRIVE_TIME: 2291.75
+- response: 7E90562030223D0
+  expected_values:
+    SQ5_DRIVE_TIME: 2292
+- response: 7E90562030223D1
+  expected_values:
+    SQ5_DRIVE_TIME: 2292.25
+- response: 7E90562030223D2
+  expected_values:
+    SQ5_DRIVE_TIME: 2292.5
+- response: 7E90562030223D3
+  expected_values:
+    SQ5_DRIVE_TIME: 2292.75
+- response: 7E90562030223D4
+  expected_values:
+    SQ5_DRIVE_TIME: 2293
+- response: 7E90562030223D5
+  expected_values:
+    SQ5_DRIVE_TIME: 2293.25
+- response: 7E90562030223D6
+  expected_values:
+    SQ5_DRIVE_TIME: 2293.5
+- response: 7E90562030223D7
+  expected_values:
+    SQ5_DRIVE_TIME: 2293.75
+- response: 7E90562030223DA
+  expected_values:
+    SQ5_DRIVE_TIME: 2294.5
+- response: 7E90562030223DB
+  expected_values:
+    SQ5_DRIVE_TIME: 2294.75
+- response: 7E90562030223DC
+  expected_values:
+    SQ5_DRIVE_TIME: 2295
+- response: 7E90562030223DD
+  expected_values:
+    SQ5_DRIVE_TIME: 2295.25
+- response: 7E90562030223DE
+  expected_values:
+    SQ5_DRIVE_TIME: 2295.5
+- response: 7E90562030223DF
+  expected_values:
+    SQ5_DRIVE_TIME: 2295.75
+- response: 7E90562030223E0
+  expected_values:
+    SQ5_DRIVE_TIME: 2296
+- response: 7E90562030223E1
+  expected_values:
+    SQ5_DRIVE_TIME: 2296.25
+- response: 7E90562030223E3
+  expected_values:
+    SQ5_DRIVE_TIME: 2296.75
+- response: 7E90562030223E4
+  expected_values:
+    SQ5_DRIVE_TIME: 2297
+- response: 7E90562030223E5
+  expected_values:
+    SQ5_DRIVE_TIME: 2297.25
+- response: 7E90562030223E6
+  expected_values:
+    SQ5_DRIVE_TIME: 2297.5
+- response: 7E90562030223E9
+  expected_values:
+    SQ5_DRIVE_TIME: 2298.25
+- response: 7E90562030223EA
+  expected_values:
+    SQ5_DRIVE_TIME: 2298.5
+- response: 7E90562030223EB
+  expected_values:
+    SQ5_DRIVE_TIME: 2298.75
+- response: 7E90562030223EC
+  expected_values:
+    SQ5_DRIVE_TIME: 2299
+- response: 7E90562030223ED
+  expected_values:
+    SQ5_DRIVE_TIME: 2299.25
+- response: 7E90562030223EE
+  expected_values:
+    SQ5_DRIVE_TIME: 2299.5
+- response: 7E90562030223EF
+  expected_values:
+    SQ5_DRIVE_TIME: 2299.75
+- response: 7E90562030223F0
+  expected_values:
+    SQ5_DRIVE_TIME: 2300
+- response: 7E90562030223F1
+  expected_values:
+    SQ5_DRIVE_TIME: 2300.25
+- response: 7E90562030223F2
+  expected_values:
+    SQ5_DRIVE_TIME: 2300.5
+- response: 7E90562030223F3
+  expected_values:
+    SQ5_DRIVE_TIME: 2300.75
+- response: 7E90562030223F4
+  expected_values:
+    SQ5_DRIVE_TIME: 2301
+- response: 7E90562030223F5
+  expected_values:
+    SQ5_DRIVE_TIME: 2301.25
+- response: 7E90562030223F6
+  expected_values:
+    SQ5_DRIVE_TIME: 2301.5
+- response: 7E90562030223F7
+  expected_values:
+    SQ5_DRIVE_TIME: 2301.75
+- response: 7E90562030223F8
+  expected_values:
+    SQ5_DRIVE_TIME: 2302
+- response: 7E90562030223FA
+  expected_values:
+    SQ5_DRIVE_TIME: 2302.5
+- response: 7E90562030223FB
+  expected_values:
+    SQ5_DRIVE_TIME: 2302.75
+- response: 7E90562030223FD
+  expected_values:
+    SQ5_DRIVE_TIME: 2303.25
+- response: 7E90562030223FE
+  expected_values:
+    SQ5_DRIVE_TIME: 2303.5
+- response: 7E90562030223FF
+  expected_values:
+    SQ5_DRIVE_TIME: 2303.75
+- response: '7E9056203022400'
+  expected_values:
+    SQ5_DRIVE_TIME: 2304
+- response: '7E9056203022401'
+  expected_values:
+    SQ5_DRIVE_TIME: 2304.25
+- response: '7E9056203022402'
+  expected_values:
+    SQ5_DRIVE_TIME: 2304.5
+- response: '7E9056203022403'
+  expected_values:
+    SQ5_DRIVE_TIME: 2304.75
+- response: '7E9056203022404'
+  expected_values:
+    SQ5_DRIVE_TIME: 2305
+- response: '7E9056203022405'
+  expected_values:
+    SQ5_DRIVE_TIME: 2305.25
+- response: '7E9056203022406'
+  expected_values:
+    SQ5_DRIVE_TIME: 2305.5
+- response: '7E9056203022407'
+  expected_values:
+    SQ5_DRIVE_TIME: 2305.75
+- response: '7E9056203022408'
+  expected_values:
+    SQ5_DRIVE_TIME: 2306
+- response: '7E9056203022409'
+  expected_values:
+    SQ5_DRIVE_TIME: 2306.25
+- response: 7E905620302240A
+  expected_values:
+    SQ5_DRIVE_TIME: 2306.5
+- response: 7E905620302240B
+  expected_values:
+    SQ5_DRIVE_TIME: 2306.75
+- response: 7E905620302240D
+  expected_values:
+    SQ5_DRIVE_TIME: 2307.25
+- response: 7E905620302240E
+  expected_values:
+    SQ5_DRIVE_TIME: 2307.5
+- response: 7E905620302240F
+  expected_values:
+    SQ5_DRIVE_TIME: 2307.75
+- response: '7E9056203022410'
+  expected_values:
+    SQ5_DRIVE_TIME: 2308
+- response: '7E9056203022411'
+  expected_values:
+    SQ5_DRIVE_TIME: 2308.25
+- response: '7E9056203022412'
+  expected_values:
+    SQ5_DRIVE_TIME: 2308.5
+- response: '7E9056203022413'
+  expected_values:
+    SQ5_DRIVE_TIME: 2308.75
+- response: '7E9056203022414'
+  expected_values:
+    SQ5_DRIVE_TIME: 2309
+- response: '7E9056203022415'
+  expected_values:
+    SQ5_DRIVE_TIME: 2309.25
+- response: '7E9056203022416'
+  expected_values:
+    SQ5_DRIVE_TIME: 2309.5
+- response: '7E9056203022417'
+  expected_values:
+    SQ5_DRIVE_TIME: 2309.75
+- response: '7E9056203022418'
+  expected_values:
+    SQ5_DRIVE_TIME: 2310
+- response: '7E9056203022419'
+  expected_values:
+    SQ5_DRIVE_TIME: 2310.25
+- response: 7E905620302241A
+  expected_values:
+    SQ5_DRIVE_TIME: 2310.5
+- response: 7E905620302241B
+  expected_values:
+    SQ5_DRIVE_TIME: 2310.75
+- response: 7E905620302241C
+  expected_values:
+    SQ5_DRIVE_TIME: 2311
+- response: 7E905620302241D
+  expected_values:
+    SQ5_DRIVE_TIME: 2311.25
+- response: 7E905620302241E
+  expected_values:
+    SQ5_DRIVE_TIME: 2311.5
+- response: 7E905620302241F
+  expected_values:
+    SQ5_DRIVE_TIME: 2311.75
+- response: '7E9056203022420'
+  expected_values:
+    SQ5_DRIVE_TIME: 2312
+- response: '7E9056203022421'
+  expected_values:
+    SQ5_DRIVE_TIME: 2312.25
+- response: '7E9056203022422'
+  expected_values:
+    SQ5_DRIVE_TIME: 2312.5
+- response: '7E9056203022423'
+  expected_values:
+    SQ5_DRIVE_TIME: 2312.75
+- response: '7E9056203022424'
+  expected_values:
+    SQ5_DRIVE_TIME: 2313
+- response: '7E9056203022425'
+  expected_values:
+    SQ5_DRIVE_TIME: 2313.25
+- response: '7E9056203022426'
+  expected_values:
+    SQ5_DRIVE_TIME: 2313.5
+- response: '7E9056203022427'
+  expected_values:
+    SQ5_DRIVE_TIME: 2313.75
+- response: '7E9056203022428'
+  expected_values:
+    SQ5_DRIVE_TIME: 2314
+- response: 7E905620302242A
+  expected_values:
+    SQ5_DRIVE_TIME: 2314.5
+- response: 7E905620302242B
+  expected_values:
+    SQ5_DRIVE_TIME: 2314.75
+- response: 7E905620302242C
+  expected_values:
+    SQ5_DRIVE_TIME: 2315
+- response: 7E905620302242D
+  expected_values:
+    SQ5_DRIVE_TIME: 2315.25
+- response: 7E905620302242E
+  expected_values:
+    SQ5_DRIVE_TIME: 2315.5
+- response: 7E905620302242F
+  expected_values:
+    SQ5_DRIVE_TIME: 2315.75
+- response: '7E9056203022430'
+  expected_values:
+    SQ5_DRIVE_TIME: 2316
+- response: '7E9056203022431'
+  expected_values:
+    SQ5_DRIVE_TIME: 2316.25
+- response: '7E9056203022432'
+  expected_values:
+    SQ5_DRIVE_TIME: 2316.5
+- response: '7E9056203022433'
+  expected_values:
+    SQ5_DRIVE_TIME: 2316.75
+- response: '7E9056203022434'
+  expected_values:
+    SQ5_DRIVE_TIME: 2317
+- response: '7E9056203022435'
+  expected_values:
+    SQ5_DRIVE_TIME: 2317.25
+- response: '7E9056203022436'
+  expected_values:
+    SQ5_DRIVE_TIME: 2317.5
+- response: '7E9056203022437'
+  expected_values:
+    SQ5_DRIVE_TIME: 2317.75
+- response: '7E9056203022438'
+  expected_values:
+    SQ5_DRIVE_TIME: 2318
+- response: '7E9056203022439'
+  expected_values:
+    SQ5_DRIVE_TIME: 2318.25
+- response: 7E905620302243A
+  expected_values:
+    SQ5_DRIVE_TIME: 2318.5
+- response: 7E905620302243B
+  expected_values:
+    SQ5_DRIVE_TIME: 2318.75
+- response: 7E905620302243C
+  expected_values:
+    SQ5_DRIVE_TIME: 2319
+- response: 7E905620302243D
+  expected_values:
+    SQ5_DRIVE_TIME: 2319.25
+- response: 7E905620302243E
+  expected_values:
+    SQ5_DRIVE_TIME: 2319.5
+- response: 7E905620302243F
+  expected_values:
+    SQ5_DRIVE_TIME: 2319.75
+- response: '7E9056203022440'
+  expected_values:
+    SQ5_DRIVE_TIME: 2320
+- response: '7E9056203022441'
+  expected_values:
+    SQ5_DRIVE_TIME: 2320.25
+- response: '7E9056203022442'
+  expected_values:
+    SQ5_DRIVE_TIME: 2320.5
+- response: '7E9056203022443'
+  expected_values:
+    SQ5_DRIVE_TIME: 2320.75
+- response: '7E9056203022444'
+  expected_values:
+    SQ5_DRIVE_TIME: 2321
+- response: '7E9056203022445'
+  expected_values:
+    SQ5_DRIVE_TIME: 2321.25
+- response: '7E9056203022446'
+  expected_values:
+    SQ5_DRIVE_TIME: 2321.5
+- response: '7E9056203022447'
+  expected_values:
+    SQ5_DRIVE_TIME: 2321.75
+- response: '7E9056203022448'
+  expected_values:
+    SQ5_DRIVE_TIME: 2322
+- response: '7E9056203022449'
+  expected_values:
+    SQ5_DRIVE_TIME: 2322.25
+- response: 7E905620302244A
+  expected_values:
+    SQ5_DRIVE_TIME: 2322.5
+- response: 7E905620302244B
+  expected_values:
+    SQ5_DRIVE_TIME: 2322.75
+- response: 7E905620302244C
+  expected_values:
+    SQ5_DRIVE_TIME: 2323
+- response: 7E905620302244D
+  expected_values:
+    SQ5_DRIVE_TIME: 2323.25
+- response: 7E905620302244E
+  expected_values:
+    SQ5_DRIVE_TIME: 2323.5
+- response: 7E905620302244F
+  expected_values:
+    SQ5_DRIVE_TIME: 2323.75
+- response: '7E9056203022452'
+  expected_values:
+    SQ5_DRIVE_TIME: 2324.5
+- response: '7E9056203022453'
+  expected_values:
+    SQ5_DRIVE_TIME: 2324.75
+- response: '7E9056203022454'
+  expected_values:
+    SQ5_DRIVE_TIME: 2325
+- response: '7E9056203022455'
+  expected_values:
+    SQ5_DRIVE_TIME: 2325.25
+- response: '7E9056203022456'
+  expected_values:
+    SQ5_DRIVE_TIME: 2325.5
+- response: '7E9056203022457'
+  expected_values:
+    SQ5_DRIVE_TIME: 2325.75
+- response: '7E9056203022458'
+  expected_values:
+    SQ5_DRIVE_TIME: 2326
+- response: '7E9056203022459'
+  expected_values:
+    SQ5_DRIVE_TIME: 2326.25
+- response: 7E905620302245B
+  expected_values:
+    SQ5_DRIVE_TIME: 2326.75
+- response: 7E905620302245C
+  expected_values:
+    SQ5_DRIVE_TIME: 2327
+- response: 7E905620302245D
+  expected_values:
+    SQ5_DRIVE_TIME: 2327.25
+- response: 7E905620302245E
+  expected_values:
+    SQ5_DRIVE_TIME: 2327.5
+- response: 7E905620302245F
+  expected_values:
+    SQ5_DRIVE_TIME: 2327.75
+- response: '7E9056203022460'
+  expected_values:
+    SQ5_DRIVE_TIME: 2328
+- response: '7E9056203022461'
+  expected_values:
+    SQ5_DRIVE_TIME: 2328.25
+- response: '7E9056203022462'
+  expected_values:
+    SQ5_DRIVE_TIME: 2328.5
+- response: '7E9056203022463'
+  expected_values:
+    SQ5_DRIVE_TIME: 2328.75
+- response: '7E9056203022464'
+  expected_values:
+    SQ5_DRIVE_TIME: 2329
+- response: '7E9056203022465'
+  expected_values:
+    SQ5_DRIVE_TIME: 2329.25
+- response: '7E9056203022466'
+  expected_values:
+    SQ5_DRIVE_TIME: 2329.5
+- response: '7E9056203022467'
+  expected_values:
+    SQ5_DRIVE_TIME: 2329.75
+- response: '7E9056203022468'
+  expected_values:
+    SQ5_DRIVE_TIME: 2330
+- response: '7E9056203022469'
+  expected_values:
+    SQ5_DRIVE_TIME: 2330.25
+- response: 7E905620302246A
+  expected_values:
+    SQ5_DRIVE_TIME: 2330.5
+- response: 7E905620302246B
+  expected_values:
+    SQ5_DRIVE_TIME: 2330.75
+- response: 7E905620302246C
+  expected_values:
+    SQ5_DRIVE_TIME: 2331
+- response: 7E905620302246D
+  expected_values:
+    SQ5_DRIVE_TIME: 2331.25
+- response: 7E905620302246E
+  expected_values:
+    SQ5_DRIVE_TIME: 2331.5
+- response: 7E905620302246F
+  expected_values:
+    SQ5_DRIVE_TIME: 2331.75
+- response: '7E9056203022470'
+  expected_values:
+    SQ5_DRIVE_TIME: 2332
+- response: '7E9056203022471'
+  expected_values:
+    SQ5_DRIVE_TIME: 2332.25
+- response: '7E9056203022472'
+  expected_values:
+    SQ5_DRIVE_TIME: 2332.5
