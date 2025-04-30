@@ -374,6 +374,9 @@ test_cases:
 - response: 7E905622B1E007C
   expected_values:
     SQ5_TIRE_RR_SPD: 12.4
+- response: 7E905622B1E007D
+  expected_values:
+    SQ5_TIRE_RR_SPD: 12.5
 - response: 7E905622B1E007E
   expected_values:
     SQ5_TIRE_RR_SPD: 12.6
@@ -716,6 +719,9 @@ test_cases:
 - response: 7E905622B1E00F0
   expected_values:
     SQ5_TIRE_RR_SPD: 24
+- response: 7E905622B1E00F1
+  expected_values:
+    SQ5_TIRE_RR_SPD: 24.1
 - response: 7E905622B1E00F2
   expected_values:
     SQ5_TIRE_RR_SPD: 24.2
