@@ -77,6 +77,9 @@ test_cases:
 - response: 7E905622B1C002B
   expected_values:
     SQ5_TIRE_FR_SPD: 4.3
+- response: 7E905622B1C002C
+  expected_values:
+    SQ5_TIRE_FR_SPD: 4.4
 - response: 7E905622B1C002D
   expected_values:
     SQ5_TIRE_FR_SPD: 4.5
@@ -287,6 +290,9 @@ test_cases:
 - response: 7E905622B1C00A3
   expected_values:
     SQ5_TIRE_FR_SPD: 16.3
+- response: 7E905622B1C00A5
+  expected_values:
+    SQ5_TIRE_FR_SPD: 16.5
 - response: 7E905622B1C00A7
   expected_values:
     SQ5_TIRE_FR_SPD: 16.7
@@ -398,6 +404,9 @@ test_cases:
 - response: 7E905622B1C00DE
   expected_values:
     SQ5_TIRE_FR_SPD: 22.2
+- response: 7E905622B1C00DF
+  expected_values:
+    SQ5_TIRE_FR_SPD: 22.3
 - response: 7E905622B1C00E1
   expected_values:
     SQ5_TIRE_FR_SPD: 22.5
@@ -485,6 +494,9 @@ test_cases:
 - response: 7E905622B1C0110
   expected_values:
     SQ5_TIRE_FR_SPD: 27.2
+- response: 7E905622B1C0111
+  expected_values:
+    SQ5_TIRE_FR_SPD: 27.3
 - response: 7E905622B1C0112
   expected_values:
     SQ5_TIRE_FR_SPD: 27.4
@@ -605,6 +617,9 @@ test_cases:
 - response: 7E905622B1C0153
   expected_values:
     SQ5_TIRE_FR_SPD: 33.9
+- response: 7E905622B1C0155
+  expected_values:
+    SQ5_TIRE_FR_SPD: 34.1
 - response: 7E905622B1C0156
   expected_values:
     SQ5_TIRE_FR_SPD: 34.2
@@ -719,6 +734,9 @@ test_cases:
 - response: 7E905622B1C018B
   expected_values:
     SQ5_TIRE_FR_SPD: 39.5
+- response: 7E905622B1C018C
+  expected_values:
+    SQ5_TIRE_FR_SPD: 39.6
 - response: 7E905622B1C018D
   expected_values:
     SQ5_TIRE_FR_SPD: 39.7
@@ -1211,6 +1229,9 @@ test_cases:
 - response: 7E905622B1C025D
   expected_values:
     SQ5_TIRE_FR_SPD: 60.5
+- response: 7E905622B1C025E
+  expected_values:
+    SQ5_TIRE_FR_SPD: 60.6
 - response: 7E905622B1C025F
   expected_values:
     SQ5_TIRE_FR_SPD: 60.7
@@ -1334,6 +1355,9 @@ test_cases:
 - response: 7E905622B1C028B
   expected_values:
     SQ5_TIRE_FR_SPD: 65.1
+- response: 7E905622B1C028C
+  expected_values:
+    SQ5_TIRE_FR_SPD: 65.2
 - response: 7E905622B1C028D
   expected_values:
     SQ5_TIRE_FR_SPD: 65.3

@@ -239,6 +239,9 @@ test_cases:
 - response: 7E8056211BA2C4F
   expected_values:
     SQ5_OIL_LEVEL: 45.372
+- response: 7E8056211BA2C52
+  expected_values:
+    SQ5_OIL_LEVEL: 45.384
 - response: 7E8056211BA2C63
   expected_values:
     SQ5_OIL_LEVEL: 45.452
@@ -308,6 +311,9 @@ test_cases:
 - response: 7E8056211BA2DE7
   expected_values:
     SQ5_OIL_LEVEL: 47.004
+- response: 7E8056211BA2E04
+  expected_values:
+    SQ5_OIL_LEVEL: 47.12
 - response: 7E8056211BA2E07
   expected_values:
     SQ5_OIL_LEVEL: 47.132
@@ -722,6 +728,9 @@ test_cases:
 - response: 7E8056211BA338E
   expected_values:
     SQ5_OIL_LEVEL: 52.792
+- response: 7E8056211BA3392
+  expected_values:
+    SQ5_OIL_LEVEL: 52.808
 - response: 7E8056211BA339F
   expected_values:
     SQ5_OIL_LEVEL: 52.86
@@ -956,6 +965,9 @@ test_cases:
 - response: 7E8056211BA3554
   expected_values:
     SQ5_OIL_LEVEL: 54.608
+- response: 7E8056211BA355D
+  expected_values:
+    SQ5_OIL_LEVEL: 54.644
 - response: 7E8056211BA3564
   expected_values:
     SQ5_OIL_LEVEL: 54.672
@@ -1220,6 +1232,9 @@ test_cases:
 - response: 7E8056211BA3776
   expected_values:
     SQ5_OIL_LEVEL: 56.792
+- response: 7E8056211BA377D
+  expected_values:
+    SQ5_OIL_LEVEL: 56.82
 - response: 7E8056211BA3785
   expected_values:
     SQ5_OIL_LEVEL: 56.852
@@ -1553,6 +1568,9 @@ test_cases:
 - response: 7E8056211BA39B0
   expected_values:
     SQ5_OIL_LEVEL: 59.072
+- response: 7E8056211BA39B4
+  expected_values:
+    SQ5_OIL_LEVEL: 59.088
 - response: 7E8056211BA39B7
   expected_values:
     SQ5_OIL_LEVEL: 59.1
@@ -2252,6 +2270,9 @@ test_cases:
 - response: 7E8056211BA3D6C
   expected_values:
     SQ5_OIL_LEVEL: 62.896
+- response: 7E8056211BA3D6F
+  expected_values:
+    SQ5_OIL_LEVEL: 62.908
 - response: 7E8056211BA3D73
   expected_values:
     SQ5_OIL_LEVEL: 62.924
