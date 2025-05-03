@@ -1,0 +1,13 @@
+command_id: 7E0.2210E0
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8076210E000006F32
+  expected_values:
+    SQ5_ODO_3: 28466
+- response: 7E8076210E000006F33
+  expected_values:
+    SQ5_ODO_3: 28467
+- response: 7E8076210E000006F34
+  expected_values:
+    SQ5_ODO_3: 28468
