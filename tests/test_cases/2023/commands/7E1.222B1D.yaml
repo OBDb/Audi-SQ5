@@ -1,0 +1,52 @@
+command_id: 7E1.222B1D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E905622B1D0000
+  expected_values:
+    SQ5_TIRE_RL_SPD: 0
+- response: 7E905622B1D0009
+  expected_values:
+    SQ5_TIRE_RL_SPD: 0.9
+- response: 7E905622B1D001A
+  expected_values:
+    SQ5_TIRE_RL_SPD: 2.6
+- response: 7E905622B1D001C
+  expected_values:
+    SQ5_TIRE_RL_SPD: 2.8
+- response: 7E905622B1D001E
+  expected_values:
+    SQ5_TIRE_RL_SPD: 3
+- response: 7E905622B1D0026
+  expected_values:
+    SQ5_TIRE_RL_SPD: 3.8
+- response: 7E905622B1D0042
+  expected_values:
+    SQ5_TIRE_RL_SPD: 6.6
+- response: 7E905622B1D0060
+  expected_values:
+    SQ5_TIRE_RL_SPD: 9.6
+- response: 7E905622B1D0097
+  expected_values:
+    SQ5_TIRE_RL_SPD: 15.1
+- response: 7E905622B1D009A
+  expected_values:
+    SQ5_TIRE_RL_SPD: 15.4
+- response: 7E905622B1D00C4
+  expected_values:
+    SQ5_TIRE_RL_SPD: 19.6
+- response: 7E905622B1D00C7
+  expected_values:
+    SQ5_TIRE_RL_SPD: 19.9
+- response: 7E905622B1D00DD
+  expected_values:
+    SQ5_TIRE_RL_SPD: 22.1
+- response: 7E905622B1D00EA
+  expected_values:
+    SQ5_TIRE_RL_SPD: 23.4
+- response: 7E905622B1D0103
+  expected_values:
+    SQ5_TIRE_RL_SPD: 25.9
+- response: 7E905622B1D011A
+  expected_values:
+    SQ5_TIRE_RL_SPD: 28.2
