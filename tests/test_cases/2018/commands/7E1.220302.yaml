@@ -584,3 +584,33 @@ test_cases:
 - response: '7E9056203022477'
   expected_values:
     SQ5_DRIVE_TIME: 2333.75
+- response: '7E9056203022478'
+  expected_values:
+    SQ5_DRIVE_TIME: 2334
+- response: '7E9056203022479'
+  expected_values:
+    SQ5_DRIVE_TIME: 2334.25
+- response: 7E905620302247A
+  expected_values:
+    SQ5_DRIVE_TIME: 2334.5
+- response: 7E905620302247B
+  expected_values:
+    SQ5_DRIVE_TIME: 2334.75
+- response: 7E905620302247C
+  expected_values:
+    SQ5_DRIVE_TIME: 2335
+- response: 7E905620302247D
+  expected_values:
+    SQ5_DRIVE_TIME: 2335.25
+- response: 7E905620302247E
+  expected_values:
+    SQ5_DRIVE_TIME: 2335.5
+- response: 7E905620302247F
+  expected_values:
+    SQ5_DRIVE_TIME: 2335.75
+- response: '7E9056203022480'
+  expected_values:
+    SQ5_DRIVE_TIME: 2336
+- response: '7E9056203022481'
+  expected_values:
+    SQ5_DRIVE_TIME: 2336.25
