@@ -8378,6 +8378,21 @@ test_cases:
 - response: 7E8076210E00001F389
   expected_values:
     SQ5_ODO_3: 127881
+- response: 7E8076210E00001F38E
+  expected_values:
+    SQ5_ODO_3: 127886
+- response: 7E8076210E00001F38F
+  expected_values:
+    SQ5_ODO_3: 127887
+- response: 7E8076210E00001F390
+  expected_values:
+    SQ5_ODO_3: 127888
+- response: 7E8076210E00001F391
+  expected_values:
+    SQ5_ODO_3: 127889
+- response: 7E8076210E00001F392
+  expected_values:
+    SQ5_ODO_3: 127890
 - response: 7E8076210E07FFFFFFF
   expected_values:
     SQ5_ODO_3: 2147483647

@@ -17,3 +17,27 @@ test_cases:
 - response: 7E80441311A9A
   expected_values:
     CLR_DIST: 6810
+- response: 7E80441311AC6
+  expected_values:
+    CLR_DIST: 6854
+- response: 7E80441311AC7
+  expected_values:
+    CLR_DIST: 6855
+- response: 7E80441311AC8
+  expected_values:
+    CLR_DIST: 6856
+- response: 7E80441311AC9
+  expected_values:
+    CLR_DIST: 6857
+- response: 7E80441311ACA
+  expected_values:
+    CLR_DIST: 6858
+- response: 7E80441311ACB
+  expected_values:
+    CLR_DIST: 6859
+- response: 7E80441311ACC
+  expected_values:
+    CLR_DIST: 6860
+- response: 7E80441311ACD
+  expected_values:
+    CLR_DIST: 6861
