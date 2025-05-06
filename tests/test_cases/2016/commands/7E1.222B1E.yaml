@@ -110,6 +110,9 @@ test_cases:
 - response: 7E905622B1E0038
   expected_values:
     SQ5_TIRE_RR_SPD: 5.6
+- response: 7E905622B1E003A
+  expected_values:
+    SQ5_TIRE_RR_SPD: 5.8
 - response: 7E905622B1E003C
   expected_values:
     SQ5_TIRE_RR_SPD: 6
@@ -197,6 +200,9 @@ test_cases:
 - response: 7E905622B1E0068
   expected_values:
     SQ5_TIRE_RR_SPD: 10.4
+- response: 7E905622B1E006A
+  expected_values:
+    SQ5_TIRE_RR_SPD: 10.6
 - response: 7E905622B1E006B
   expected_values:
     SQ5_TIRE_RR_SPD: 10.7
@@ -212,6 +218,9 @@ test_cases:
 - response: 7E905622B1E0072
   expected_values:
     SQ5_TIRE_RR_SPD: 11.4
+- response: 7E905622B1E0074
+  expected_values:
+    SQ5_TIRE_RR_SPD: 11.6
 - response: 7E905622B1E0075
   expected_values:
     SQ5_TIRE_RR_SPD: 11.7
@@ -293,6 +302,9 @@ test_cases:
 - response: 7E905622B1E00A2
   expected_values:
     SQ5_TIRE_RR_SPD: 16.2
+- response: 7E905622B1E00A3
+  expected_values:
+    SQ5_TIRE_RR_SPD: 16.3
 - response: 7E905622B1E00A4
   expected_values:
     SQ5_TIRE_RR_SPD: 16.4
@@ -473,9 +485,15 @@ test_cases:
 - response: 7E905622B1E00FA
   expected_values:
     SQ5_TIRE_RR_SPD: 25
+- response: 7E905622B1E00FC
+  expected_values:
+    SQ5_TIRE_RR_SPD: 25.2
 - response: 7E905622B1E00FE
   expected_values:
     SQ5_TIRE_RR_SPD: 25.4
+- response: 7E905622B1E0101
+  expected_values:
+    SQ5_TIRE_RR_SPD: 25.7
 - response: 7E905622B1E0102
   expected_values:
     SQ5_TIRE_RR_SPD: 25.8
@@ -665,6 +683,9 @@ test_cases:
 - response: 7E905622B1E0167
   expected_values:
     SQ5_TIRE_RR_SPD: 35.9
+- response: 7E905622B1E0168
+  expected_values:
+    SQ5_TIRE_RR_SPD: 36
 - response: 7E905622B1E016A
   expected_values:
     SQ5_TIRE_RR_SPD: 36.2
@@ -1193,6 +1214,9 @@ test_cases:
 - response: 7E905622B1E0252
   expected_values:
     SQ5_TIRE_RR_SPD: 59.4
+- response: 7E905622B1E0255
+  expected_values:
+    SQ5_TIRE_RR_SPD: 59.7
 - response: 7E905622B1E0256
   expected_values:
     SQ5_TIRE_RR_SPD: 59.8
@@ -1211,6 +1235,9 @@ test_cases:
 - response: 7E905622B1E025B
   expected_values:
     SQ5_TIRE_RR_SPD: 60.3
+- response: 7E905622B1E025C
+  expected_values:
+    SQ5_TIRE_RR_SPD: 60.4
 - response: 7E905622B1E025D
   expected_values:
     SQ5_TIRE_RR_SPD: 60.5
@@ -1238,6 +1265,9 @@ test_cases:
 - response: 7E905622B1E0267
   expected_values:
     SQ5_TIRE_RR_SPD: 61.5
+- response: 7E905622B1E0268
+  expected_values:
+    SQ5_TIRE_RR_SPD: 61.6
 - response: 7E905622B1E0269
   expected_values:
     SQ5_TIRE_RR_SPD: 61.7
@@ -1376,6 +1406,9 @@ test_cases:
 - response: 7E905622B1E0298
   expected_values:
     SQ5_TIRE_RR_SPD: 66.4
+- response: 7E905622B1E0299
+  expected_values:
+    SQ5_TIRE_RR_SPD: 66.5
 - response: 7E905622B1E029A
   expected_values:
     SQ5_TIRE_RR_SPD: 66.6
@@ -1448,6 +1481,9 @@ test_cases:
 - response: 7E905622B1E02B2
   expected_values:
     SQ5_TIRE_RR_SPD: 69
+- response: 7E905622B1E02B3
+  expected_values:
+    SQ5_TIRE_RR_SPD: 69.1
 - response: 7E905622B1E02B4
   expected_values:
     SQ5_TIRE_RR_SPD: 69.2
@@ -1463,6 +1499,9 @@ test_cases:
 - response: 7E905622B1E02B8
   expected_values:
     SQ5_TIRE_RR_SPD: 69.6
+- response: 7E905622B1E02B9
+  expected_values:
+    SQ5_TIRE_RR_SPD: 69.7
 - response: 7E905622B1E02BA
   expected_values:
     SQ5_TIRE_RR_SPD: 69.8
@@ -1676,6 +1715,9 @@ test_cases:
 - response: 7E905622B1E0304
   expected_values:
     SQ5_TIRE_RR_SPD: 77.2
+- response: 7E905622B1E0305
+  expected_values:
+    SQ5_TIRE_RR_SPD: 77.3
 - response: 7E905622B1E0306
   expected_values:
     SQ5_TIRE_RR_SPD: 77.4
@@ -1814,6 +1856,9 @@ test_cases:
 - response: 7E905622B1E0339
   expected_values:
     SQ5_TIRE_RR_SPD: 82.5
+- response: 7E905622B1E033A
+  expected_values:
+    SQ5_TIRE_RR_SPD: 82.6
 - response: 7E905622B1E033B
   expected_values:
     SQ5_TIRE_RR_SPD: 82.7
@@ -2102,6 +2147,9 @@ test_cases:
 - response: 7E905622B1E03C2
   expected_values:
     SQ5_TIRE_RR_SPD: 96.2
+- response: 7E905622B1E03C3
+  expected_values:
+    SQ5_TIRE_RR_SPD: 96.3
 - response: 7E905622B1E03C5
   expected_values:
     SQ5_TIRE_RR_SPD: 96.5
@@ -2246,6 +2294,9 @@ test_cases:
 - response: 7E905622B1E0419
   expected_values:
     SQ5_TIRE_RR_SPD: 104.9
+- response: 7E905622B1E041C
+  expected_values:
+    SQ5_TIRE_RR_SPD: 105.2
 - response: 7E905622B1E041D
   expected_values:
     SQ5_TIRE_RR_SPD: 105.3
@@ -2270,6 +2321,9 @@ test_cases:
 - response: 7E905622B1E0426
   expected_values:
     SQ5_TIRE_RR_SPD: 106.2
+- response: 7E905622B1E0427
+  expected_values:
+    SQ5_TIRE_RR_SPD: 106.3
 - response: 7E905622B1E0428
   expected_values:
     SQ5_TIRE_RR_SPD: 106.4
@@ -2309,6 +2363,15 @@ test_cases:
 - response: 7E905622B1E043A
   expected_values:
     SQ5_TIRE_RR_SPD: 108.2
+- response: 7E905622B1E043C
+  expected_values:
+    SQ5_TIRE_RR_SPD: 108.4
+- response: 7E905622B1E043F
+  expected_values:
+    SQ5_TIRE_RR_SPD: 108.7
+- response: 7E905622B1E0441
+  expected_values:
+    SQ5_TIRE_RR_SPD: 108.9
 - response: 7E905622B1E0442
   expected_values:
     SQ5_TIRE_RR_SPD: 109
@@ -2330,6 +2393,9 @@ test_cases:
 - response: 7E905622B1E0449
   expected_values:
     SQ5_TIRE_RR_SPD: 109.7
+- response: 7E905622B1E044A
+  expected_values:
+    SQ5_TIRE_RR_SPD: 109.8
 - response: 7E905622B1E044B
   expected_values:
     SQ5_TIRE_RR_SPD: 109.9
@@ -2393,6 +2459,9 @@ test_cases:
 - response: 7E905622B1E0464
   expected_values:
     SQ5_TIRE_RR_SPD: 112.4
+- response: 7E905622B1E0466
+  expected_values:
+    SQ5_TIRE_RR_SPD: 112.6
 - response: 7E905622B1E0467
   expected_values:
     SQ5_TIRE_RR_SPD: 112.7
@@ -2468,6 +2537,9 @@ test_cases:
 - response: 7E905622B1E048F
   expected_values:
     SQ5_TIRE_RR_SPD: 116.7
+- response: 7E905622B1E0490
+  expected_values:
+    SQ5_TIRE_RR_SPD: 116.8
 - response: 7E905622B1E0493
   expected_values:
     SQ5_TIRE_RR_SPD: 117.1
@@ -2600,6 +2672,9 @@ test_cases:
 - response: 7E905622B1E04D5
   expected_values:
     SQ5_TIRE_RR_SPD: 123.7
+- response: 7E905622B1E04D6
+  expected_values:
+    SQ5_TIRE_RR_SPD: 123.8
 - response: 7E905622B1E04D8
   expected_values:
     SQ5_TIRE_RR_SPD: 124
@@ -2630,6 +2705,9 @@ test_cases:
 - response: 7E905622B1E04E5
   expected_values:
     SQ5_TIRE_RR_SPD: 125.3
+- response: 7E905622B1E04E9
+  expected_values:
+    SQ5_TIRE_RR_SPD: 125.7
 - response: 7E905622B1E04EA
   expected_values:
     SQ5_TIRE_RR_SPD: 125.8
@@ -2639,9 +2717,15 @@ test_cases:
 - response: 7E905622B1E04EF
   expected_values:
     SQ5_TIRE_RR_SPD: 126.3
+- response: 7E905622B1E04F0
+  expected_values:
+    SQ5_TIRE_RR_SPD: 126.4
 - response: 7E905622B1E04F1
   expected_values:
     SQ5_TIRE_RR_SPD: 126.5
+- response: 7E905622B1E04F2
+  expected_values:
+    SQ5_TIRE_RR_SPD: 126.6
 - response: 7E905622B1E04F5
   expected_values:
     SQ5_TIRE_RR_SPD: 126.9
@@ -2678,12 +2762,21 @@ test_cases:
 - response: 7E905622B1E0510
   expected_values:
     SQ5_TIRE_RR_SPD: 129.6
+- response: 7E905622B1E0511
+  expected_values:
+    SQ5_TIRE_RR_SPD: 129.7
+- response: 7E905622B1E0512
+  expected_values:
+    SQ5_TIRE_RR_SPD: 129.8
 - response: 7E905622B1E0516
   expected_values:
     SQ5_TIRE_RR_SPD: 130.2
 - response: 7E905622B1E0517
   expected_values:
     SQ5_TIRE_RR_SPD: 130.3
+- response: 7E905622B1E051A
+  expected_values:
+    SQ5_TIRE_RR_SPD: 130.6
 - response: 7E905622B1E051B
   expected_values:
     SQ5_TIRE_RR_SPD: 130.7
@@ -2735,3 +2828,6 @@ test_cases:
 - response: 7E905622B1E056B
   expected_values:
     SQ5_TIRE_RR_SPD: 138.7
+- response: 7E905622B1E05C1
+  expected_values:
+    SQ5_TIRE_RR_SPD: 147.3

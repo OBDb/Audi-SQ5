@@ -617,3 +617,24 @@ test_cases:
 - response: '7E9056203022482'
   expected_values:
     SQ5_DRIVE_TIME: 2336.5
+- response: '7E9056203022483'
+  expected_values:
+    SQ5_DRIVE_TIME: 2336.75
+- response: '7E9056203022484'
+  expected_values:
+    SQ5_DRIVE_TIME: 2337
+- response: '7E9056203022485'
+  expected_values:
+    SQ5_DRIVE_TIME: 2337.25
+- response: '7E9056203022486'
+  expected_values:
+    SQ5_DRIVE_TIME: 2337.5
+- response: '7E9056203022487'
+  expected_values:
+    SQ5_DRIVE_TIME: 2337.75
+- response: '7E9056203022488'
+  expected_values:
+    SQ5_DRIVE_TIME: 2338
+- response: '7E9056203022489'
+  expected_values:
+    SQ5_DRIVE_TIME: 2338.25
