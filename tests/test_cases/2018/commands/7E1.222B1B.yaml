@@ -65,6 +65,9 @@ test_cases:
 - response: 7E905622B1B0015
   expected_values:
     SQ5_TIRE_FL_SPD: 2.1
+- response: 7E905622B1B0016
+  expected_values:
+    SQ5_TIRE_FL_SPD: 2.2
 - response: 7E905622B1B0017
   expected_values:
     SQ5_TIRE_FL_SPD: 2.3
@@ -1688,6 +1691,9 @@ test_cases:
 - response: 7E905622B1B023E
   expected_values:
     SQ5_TIRE_FL_SPD: 57.4
+- response: 7E905622B1B023F
+  expected_values:
+    SQ5_TIRE_FL_SPD: 57.5
 - response: 7E905622B1B0240
   expected_values:
     SQ5_TIRE_FL_SPD: 57.6
