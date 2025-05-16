@@ -82,10 +82,10 @@ unsupported_commands_by_ecu:
   - 715.222357:SQ5_CRASH_CNT_ROLL
   746:
   - 746.2227C4:SQ5_WNDSHLD_TEMP
+  7DF:
+  - 7DF.012F
   7E0:
   - 7E0.2211C4
   - 7E0.2211C5
   - 7E0.22295A
   - 7E0.7E8.0131
-  7E4:
-  - 7E4.7EC.010D

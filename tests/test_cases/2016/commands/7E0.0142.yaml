@@ -2,12 +2,15 @@ command_id: 7E0.0142
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80441422E6A
+- response: 7E80441422BA3
   expected_values:
-    VPWR: 11.882
+    VPWR: 11.171
+- response: '7E80441423000'
+  expected_values:
+    VPWR: 12.288
 - response: 7E804414231FC
   expected_values:
     VPWR: 12.796
-- response: '7E80441423724'
+- response: '7E80441423855'
   expected_values:
-    VPWR: 14.116
+    VPWR: 14.421
