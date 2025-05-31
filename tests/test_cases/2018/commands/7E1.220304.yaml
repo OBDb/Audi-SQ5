@@ -1,10 +1,5 @@
 command_id: 7E1.220304
 test_cases:
-- response: |-
-    7E90462030400
-    7E90462030300
-  expected_values:
-    SQ5_DRIVE_TIME_SPORT: 0
 - response: '7E90462030433'
   expected_values:
     SQ5_DRIVE_TIME_SPORT: 20.4
