@@ -1,5 +1,5 @@
 command_id: 7E1.220305
 test_cases:
-- response: '7E90462030503'
-  expected_values:
+- expected_values:
     SQ5_DRIVE_TIME_MANUAL: 1.2
+  response: '7E90462030503'

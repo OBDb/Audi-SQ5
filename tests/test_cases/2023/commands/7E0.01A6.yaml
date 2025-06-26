@@ -1,11 +1,11 @@
 command_id: 7E0.01A6
 test_cases:
-- response: 7E80641A6000457F7
-  expected_values:
+- expected_values:
     ODO: 28466.3
-- response: 7E80641A6000457FF
-  expected_values:
+  response: 7E80641A6000457F7
+- expected_values:
     ODO: 28467.1
-- response: 7E80641A600045800
-  expected_values:
+  response: 7E80641A6000457FF
+- expected_values:
     ODO: 28467.2
+  response: 7E80641A600045800

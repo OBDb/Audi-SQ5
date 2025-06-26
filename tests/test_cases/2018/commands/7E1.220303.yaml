@@ -1,19 +1,25 @@
 command_id: 7E1.220303
 test_cases:
-- response: 7E904620303C3
-  expected_values:
+- expected_values:
+    SQ5_DRIVE_TIME_ECO: 77.6
+  response: 7E904620303C2
+- expected_values:
     SQ5_DRIVE_TIME_ECO: 78
-- response: 7E904620303C4
-  expected_values:
+  response: 7E904620303C3
+- expected_values:
     SQ5_DRIVE_TIME_ECO: 78.4
-- response: 7E904620303C5
-  expected_values:
+  response: 7E904620303C4
+- expected_values:
     SQ5_DRIVE_TIME_ECO: 78.8
-- response: 7E904620303C6
-  expected_values:
+  response: 7E904620303C5
+- expected_values:
     SQ5_DRIVE_TIME_ECO: 79.2
-- response: |-
+  response: 7E904620303C6
+- expected_values:
+    SQ5_DRIVE_TIME_ECO: 84.8
+  response: 7E904620303D4
+- expected_values:
+    SQ5_DRIVE_TIME_ECO: 0
+  response: |-
     7E90462030400
     7E90462030300
-  expected_values:
-    SQ5_DRIVE_TIME_ECO: 0

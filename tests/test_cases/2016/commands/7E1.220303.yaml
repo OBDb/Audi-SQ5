@@ -1,5 +1,8 @@
 command_id: 7E1.220303
 test_cases:
-- response: 7E904620303DD
-  expected_values:
+- expected_values:
     SQ5_DRIVE_TIME_ECO: 88.4
+  response: 7E904620303DD
+- expected_values:
+    SQ5_DRIVE_TIME_ECO: 88.8
+  response: 7E904620303DE
