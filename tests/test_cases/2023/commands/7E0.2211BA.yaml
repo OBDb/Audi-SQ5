@@ -1,14 +1,14 @@
 command_id: 7E0.2211BA
 test_cases:
-- response: 7E8056211BA4346
-  expected_values:
+- expected_values:
     SQ5_OIL_LEVEL: 68.888
-- response: 7E8056211BA46FD
-  expected_values:
+  response: 7E8056211BA4346
+- expected_values:
     SQ5_OIL_LEVEL: 72.692
-- response: 7E8056211BA4909
-  expected_values:
+  response: 7E8056211BA46FD
+- expected_values:
     SQ5_OIL_LEVEL: 74.788
-- response: 7E8056211BA5296
-  expected_values:
+  response: 7E8056211BA4909
+- expected_values:
     SQ5_OIL_LEVEL: 84.568
+  response: 7E8056211BA5296

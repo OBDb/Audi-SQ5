@@ -1,0 +1,5 @@
+command_id: 7E1.220302
+test_cases:
+- expected_values:
+    SQ5_DRIVE_TIME: 1359.5
+  response: 7E905620302153E

@@ -1,14 +1,20 @@
 command_id: 7E0.2210E0
 test_cases:
-- response: 7E8076210E00001E65B
-  expected_values:
-    SQ5_ODO_3: 124507
-- response: 7E8076210E00001E6FF
-  expected_values:
+- expected_values:
+    SQ5_ODO_3: 57655
+  response: 7E8076210E00000E137
+- expected_values:
     SQ5_ODO_3: 124671
-- response: 7E8076210E00001E700
-  expected_values:
+  response: 7E8076210E00001E6FF
+- expected_values:
     SQ5_ODO_3: 124672
-- response: 7E8076210E07FFFFFFF
-  expected_values:
+  response: 7E8076210E00001E700
+- expected_values:
+    SQ5_ODO_3: 130816
+  response: 7E8076210E00001FF00
+- expected_values:
+    SQ5_ODO_3: 131076
+  response: 7E8076210E000020004
+- expected_values:
     SQ5_ODO_3: 2147483647
+  response: 7E8076210E07FFFFFFF
