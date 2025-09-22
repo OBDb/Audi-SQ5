@@ -4,11 +4,11 @@ test_cases:
     SQ5_ODO_3: 57655
   response: 7E8076210E00000E137
 - expected_values:
-    SQ5_ODO_3: 124671
-  response: 7E8076210E00001E6FF
+    SQ5_ODO_3: 57855
+  response: 7E8076210E00000E1FF
 - expected_values:
-    SQ5_ODO_3: 124672
-  response: 7E8076210E00001E700
+    SQ5_ODO_3: 57856
+  response: 7E8076210E00000E200
 - expected_values:
     SQ5_ODO_3: 130816
   response: 7E8076210E00001FF00
