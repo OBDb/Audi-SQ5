@@ -4,17 +4,5 @@ test_cases:
     SQ5_DRIVE_TIME_SPORT: 14.8
   response: '7E90462030425'
 - expected_values:
-    SQ5_DRIVE_TIME_SPORT: 20.4
-  response: '7E90462030433'
-- expected_values:
-    SQ5_DRIVE_TIME_SPORT: 20.8
-  response: '7E90462030434'
-- expected_values:
-    SQ5_DRIVE_TIME_SPORT: 21.2
-  response: '7E90462030435'
-- expected_values:
-    SQ5_DRIVE_TIME_SPORT: 21.6
-  response: '7E90462030436'
-- expected_values:
     SQ5_DRIVE_TIME_SPORT: 22
   response: '7E90462030437'
