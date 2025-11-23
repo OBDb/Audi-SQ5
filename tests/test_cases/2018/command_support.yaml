@@ -44,6 +44,7 @@ supported_commands_by_ecu:
   - 7E0.010D:VSS
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
+  - 7E0.0142:VPWR
   - 7E0.2210E0:SQ5_ODO_3
   - 7E0.2211BA:SQ5_OIL_LEVEL
   "7E1":
