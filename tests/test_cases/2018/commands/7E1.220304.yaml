@@ -1,8 +1,8 @@
 command_id: 7E1.220304
 test_cases:
 - expected_values:
-    SQ5_DRIVE_TIME_SPORT: 14.8
-  response: '7E90462030425'
+    SQ5_DRIVE_TIME_SPORT: 2.4
+  response: '7E90462030406'
 - expected_values:
     SQ5_DRIVE_TIME_SPORT: 22
   response: '7E90462030437'
