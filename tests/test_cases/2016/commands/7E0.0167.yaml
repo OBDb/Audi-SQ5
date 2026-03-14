@@ -24,3 +24,9 @@ test_cases:
     ECT_2: 100
     ECT_2_SUP: 1
   response: 7E805416703828C
+- expected_values:
+    ECT_1: 94
+    ECT_1_SUP: 1
+    ECT_2: 101
+    ECT_2_SUP: 1
+  response: 7E805416703868D
