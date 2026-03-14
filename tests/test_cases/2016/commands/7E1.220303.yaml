@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     SQ5_DRIVE_TIME_ECO: 88.8
   response: 7E904620303DE
+- expected_values:
+    SQ5_DRIVE_TIME_ECO: 89.2
+  response: 7E904620303DF
