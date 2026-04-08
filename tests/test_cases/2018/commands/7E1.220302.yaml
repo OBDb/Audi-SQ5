@@ -10,5 +10,5 @@ test_cases:
     SQ5_DRIVE_TIME: 2304
   response: '7E9056203022400'
 - expected_values:
-    SQ5_DRIVE_TIME: 2368
-  response: '7E9056203022500'
+    SQ5_DRIVE_TIME: 2786.25
+  response: 7E9056203022B89
