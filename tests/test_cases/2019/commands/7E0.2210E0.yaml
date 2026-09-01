@@ -1,0 +1,17 @@
+command_id: 7E0.2210E0
+test_cases:
+- expected_values:
+    SQ5_ODO_3: 167073
+  response: 7E8076210E000028CA1
+- expected_values:
+    SQ5_ODO_3: 167074
+  response: 7E8076210E000028CA2
+- expected_values:
+    SQ5_ODO_3: 167075
+  response: 7E8076210E000028CA3
+- expected_values:
+    SQ5_ODO_3: 167076
+  response: 7E8076210E000028CA4
+- expected_values:
+    SQ5_ODO_3: 167077
+  response: 7E8076210E000028CA5
