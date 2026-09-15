@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SQ5_OIL_MAX: 14.56
   response: 7E8056211C40E38
+- expected_values:
+    SQ5_OIL_MAX: 33.16
+  response: 7E8056211C42062
