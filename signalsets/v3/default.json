@@ -113,19 +113,19 @@
   ]},
 { "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2024 },
   "signals": [
-    {"id": "SQ5_TIRE_FL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
+    {"id": "SQ5_TIRE_FL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 409.4, "div": 10, "nullmax": 409.4, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
 { "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2024 },
   "signals": [
-    {"id": "SQ5_TIRE_FR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
+    {"id": "SQ5_TIRE_FR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 409.4, "div": 10, "nullmax": 409.4, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
 { "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2024 },
   "signals": [
-    {"id": "SQ5_TIRE_RL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
+    {"id": "SQ5_TIRE_RL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 409.4, "div": 10, "nullmax": 409.4, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
 { "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2024 },
   "signals": [
-    {"id": "SQ5_TIRE_RR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
+    {"id": "SQ5_TIRE_RR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 409.4, "div": 10, "nullmax": 409.4, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]}
 ]
 }
