@@ -16,5 +16,8 @@ test_cases:
     SQ5_ODO_3: 131076
   response: 7E8076210E000020004
 - expected_values:
-    SQ5_ODO_3: 2147483647
+    SQ5_ODO_3: 207466
+  response: 7E8076210E000032A6A
+- expected_values:
+    SQ5_ODO_3: null
   response: 7E8076210E07FFFFFFF
